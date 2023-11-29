@@ -1,2 +1,2 @@
-# home.bearusumyo.dev
+# Myo Bearusu
 Landing page
